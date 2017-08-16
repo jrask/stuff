@@ -5,6 +5,7 @@ https://docs.google.com/spreadsheets/d/1sMQe9oOKhMhIVw9WmuCEWdPtAoccJ4a-IuZv4fXD
 
 ### Hadoop and Cassandra
 https://www.datastax.com/nosql-databases/nosql-cassandra-and-hadoop
+http://blog.markedup.com/2013/02/cassandra-hive-and-hadoop-how-we-picked-our-analytics-stack/
 
 ### Streaming
 https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
