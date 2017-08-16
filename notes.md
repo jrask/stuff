@@ -23,4 +23,5 @@ https://groups.google.com/forum/#!topic/nosql-databases/Z_XQi-x8xvk
 
 ### Streaming
 https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
+
 https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
