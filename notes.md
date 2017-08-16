@@ -14,7 +14,8 @@ https://www.reddit.com/r/hadoop/comments/2uw8yy/hadoop_vs_cassandra_proscons/
     large volumes of transactional data in an eventually-consistent way.
     It's terrible at analytics. Typically, you need to pull the data out into another system (say, Hadoop) for analytics. Unless your
     analytics is against small enough volumes that it can fit into a single cassandra partition (highly unlikely).
-    
+
+https://www.oreilly.com/ideas/apache-cassandra-for-analytics-a-performance-and-storage-analysis
 
 ### Streaming
 https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
