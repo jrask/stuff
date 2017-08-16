@@ -17,6 +17,10 @@ https://www.reddit.com/r/hadoop/comments/2uw8yy/hadoop_vs_cassandra_proscons/
 
 https://www.oreilly.com/ideas/apache-cassandra-for-analytics-a-performance-and-storage-analysis
 
+https://groups.google.com/forum/#!topic/nosql-databases/Z_XQi-x8xvk
+
+    Good discussion on analytics with cassandra vs hdfs
+
 ### Streaming
 https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
 https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
