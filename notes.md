@@ -39,7 +39,7 @@ https://groups.google.com/forum/#!topic/nosql-databases/Z_XQi-x8xvk
 
 https://www.elastic.co/blog/clustering_across_multiple_data_centers
 
-https://www.elastic.co/blog/clustering_across_multiple_data_centers
+https://www.elastic.co/blog/scaling_elasticsearch_across_data_centers_with_kafka
 
     One might start by defining a single shared Elasticsearch cluster where nodes are distributed between the New York and London data
     centers. Such a configuration is discouraged; it’s a mistake you will regret. Elasticsearch clustering was designed assuming high
