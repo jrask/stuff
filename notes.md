@@ -52,3 +52,5 @@ https://t37.net/elasticsearch-cluster-rolling-restart-at-the-speed-of-light-with
 ### Kafka
 
 [MirrorMaker docs](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27846330)
+
+https://kafka.apache.org/documentation/#design_quotas 
