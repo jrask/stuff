@@ -54,3 +54,10 @@ https://t37.net/elasticsearch-cluster-rolling-restart-at-the-speed-of-light-with
 [MirrorMaker docs](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27846330)
 
 https://kafka.apache.org/documentation/#design_quotas 
+
+    How does a broker react when it detects a quota violation? In our solution, the broker does not return an error rather it attempts 
+    to slow down a client exceeding its quota. It computes the amount of delay needed to bring a guilty client under its quota and 
+    delays the response for that time. This approach keeps the quota violation transparent to clients (outside of client-side metrics). 
+    This also keeps them from having to implement any special backoff and retry behavior which can get tricky. In fact, bad client 
+    behavior (retry without backoff) can exacerbate the very problem quotas are trying to solve.
+
