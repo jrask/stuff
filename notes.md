@@ -33,6 +33,8 @@ https://groups.google.com/forum/#!topic/nosql-databases/Z_XQi-x8xvk
 
 ### Elasticsearch
 
+#### ES + Datacenters
+
 https://www.elastic.co/blog/clustering_across_multiple_data_centers
 
 https://www.elastic.co/blog/clustering_across_multiple_data_centers
@@ -48,6 +50,18 @@ https://t37.net/elasticsearch-cluster-rolling-restart-at-the-speed-of-light-with
     ElasticSearch shard allocation awareness is a rather underlooked feature. It allows you to add your ElasticSearch nodes to virtual
     racks so the primary and replica shards are not allocated in the same rack. That’s extremely handy to ensure fail over when you 
     spread your cluster between multiple data centers.
+
+#### ES + SAN
+
+https://discuss.elastic.co/t/es-and-san/25708/7
+
+#### ES Others
+
+https://www.elastic.co/blog/hot-warm-architecture-in-elasticsearch-5-x
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/tune-for-indexing-speed.html
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/tune-for-search-speed.html
 
 ### Kafka
 
