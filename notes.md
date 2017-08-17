@@ -1,11 +1,10 @@
 ### Streaming
 
-Part 1 is mandatory reading for everyone in the team ;-)
-
-https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
+(Mandatory) https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
 
 https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
 
+(Mandatory) https://www.oreilly.com/ideas/questioning-the-lambda-architecture
 
 ### Timeseries comparison
 
