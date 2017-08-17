@@ -1,3 +1,11 @@
+### Streaming
+
+Part 1 is mandatory reading for everyone in the team ;-)
+
+https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
+
+https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
+
 
 ### Timeseries comparison
 
@@ -24,11 +32,6 @@ https://groups.google.com/forum/#!topic/nosql-databases/Z_XQi-x8xvk
 
     Good discussion on analytics with cassandra vs hdfs
 
-### Streaming
-https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
-
-https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
-
 ### Elasticsearch
 
 https://www.elastic.co/blog/clustering_across_multiple_data_centers
@@ -38,6 +41,14 @@ https://www.elastic.co/blog/clustering_across_multiple_data_centers
     One might start by defining a single shared Elasticsearch cluster where nodes are distributed between the New York and London data
     centers. Such a configuration is discouraged; it’s a mistake you will regret. Elasticsearch clustering was designed assuming high
     speed and highly reliable networking. Elastic recommends clusters to be located in the same datacenter and rack, preferably.
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/allocation-awareness.html
+
+https://t37.net/elasticsearch-cluster-rolling-restart-at-the-speed-of-light-with-rack-awareness.html
+
+    ElasticSearch shard allocation awareness is a rather underlooked feature. It allows you to add your ElasticSearch nodes to virtual
+    racks so the primary and replica shards are not allocated in the same rack. That’s extremely handy to ensure fail over when you 
+    spread your cluster between multiple data centers.
 
 ### Kafka
 
