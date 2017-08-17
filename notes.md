@@ -77,3 +77,4 @@ https://kafka.apache.org/documentation/#design_quotas
     This also keeps them from having to implement any special backoff and retry behavior which can get tricky. In fact, bad client 
     behavior (retry without backoff) can exacerbate the very problem quotas are trying to solve.
 
+https://engineering.linkedin.com/kafka/running-kafka-scale
