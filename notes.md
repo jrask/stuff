@@ -6,6 +6,8 @@ https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
 
 (Mandatory) https://www.oreilly.com/ideas/questioning-the-lambda-architecture
 
+https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/
+
 ### Timeseries comparison
 
 https://blog.outlyer.com/top10-open-source-time-series-databases
