@@ -1,9 +1,12 @@
 
 ### Timeseries comparison
+
 https://blog.outlyer.com/top10-open-source-time-series-databases
+
 https://docs.google.com/spreadsheets/d/1sMQe9oOKhMhIVw9WmuCEWdPtAoccJ4a-IuZv4fXDHxM/edit#gid=0
 
 ### Hadoop and Cassandra
+
 https://www.datastax.com/nosql-databases/nosql-cassandra-and-hadoop
 
 http://blog.markedup.com/2013/02/cassandra-hive-and-hadoop-how-we-picked-our-analytics-stack/
@@ -25,3 +28,17 @@ https://groups.google.com/forum/#!topic/nosql-databases/Z_XQi-x8xvk
 https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101
 
 https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102
+
+### Elasticsearch
+
+https://www.elastic.co/blog/clustering_across_multiple_data_centers
+
+https://www.elastic.co/blog/clustering_across_multiple_data_centers
+
+    One might start by defining a single shared Elasticsearch cluster where nodes are distributed between the New York and London data
+    centers. Such a configuration is discouraged; it’s a mistake you will regret. Elasticsearch clustering was designed assuming high
+    speed and highly reliable networking. Elastic recommends clusters to be located in the same datacenter and rack, preferably.
+
+### Kafka
+
+[MirrorMaker docs](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27846330)
